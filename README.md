@@ -9,6 +9,7 @@
 ## Modified Cards
 
 - __Fog of War__: Normal => Unique
+- __Legacy__: Can't recover unique cards
 
 ## FAQ
 
