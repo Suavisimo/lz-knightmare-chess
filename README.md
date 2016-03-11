@@ -6,6 +6,10 @@
 
 - 
 
+## Modified Cards
+
+- __Fog of War__: Normal => Unique
+
 ## FAQ
 
 - 
